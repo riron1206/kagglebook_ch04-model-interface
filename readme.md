@@ -1,6 +1,4 @@
-### 第4章「分析コンペ用のクラスやフォルダの構成」サンプルコード
-
-第4章「分析コンペ用のクラスやフォルダの構成」のサンプルコードです。
+### 「Kaggleで勝つデータ分析の技術」の第4章「分析コンペ用のクラスやフォルダの構成」サンプルコード(https://github.com/ghmagazine/kagglebook)
 
 Kaggleの[Otto Group Product Classification Challenge](https://www.kaggle.com/c/otto-group-product-classification-challenge/)
 のデータを入力として、xgboostおよびkerasによる学習・予測の一連の流れが行えるようにしています。  
