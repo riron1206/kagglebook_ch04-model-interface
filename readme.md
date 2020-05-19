@@ -13,7 +13,7 @@ Kaggleの[Otto Group Product Classification Challenge](https://www.kaggle.com/c/
 
 #### ディレクトリ構成
 ```bash
-input       # train.scvなどの入力ファイル入れるディレクトリ
+input       # train.csvなどの入力ファイル入れるディレクトリ
 code        # 計算用コード入れるディレクトリ
 notebook    # Jupyter Notebook用ディレクトリ
 model       # モデルや特徴量を保存するディレクトリ
