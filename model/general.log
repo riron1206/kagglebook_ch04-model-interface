@@ -1,0 +1,60 @@
+[2020-05-19 16:25:01] - nn1 - start training cv
+[2020-05-19 16:25:01] - nn1 fold 0 - start training
+[2020-05-19 16:25:19] - nn1 fold 0 - end training - score 0.5486731275349344
+[2020-05-19 16:25:19] - nn1 fold 1 - start training
+[2020-05-19 16:25:34] - nn1 fold 1 - end training - score 0.5490877936991542
+[2020-05-19 16:25:34] - nn1 fold 2 - start training
+[2020-05-19 16:25:49] - nn1 fold 2 - end training - score 0.5634372788152872
+[2020-05-19 16:25:49] - nn1 fold 3 - start training
+[2020-05-19 16:26:04] - nn1 fold 3 - end training - score 0.5376961001313633
+[2020-05-19 16:26:04] - nn1 - end training cv - score 0.5497235750451848
+[2020-05-19 16:26:04] - nn1 - start prediction cv
+[2020-05-19 16:26:05] - nn1 - start prediction fold:0
+[2020-05-19 16:26:14] - nn1 - end prediction fold:0
+[2020-05-19 16:26:14] - nn1 - start prediction fold:1
+[2020-05-19 16:26:25] - nn1 - end prediction fold:1
+[2020-05-19 16:26:25] - nn1 - start prediction fold:2
+[2020-05-19 16:26:38] - nn1 - end prediction fold:2
+[2020-05-19 16:26:38] - nn1 - start prediction fold:3
+[2020-05-19 16:26:54] - nn1 - end prediction fold:3
+[2020-05-19 16:26:54] - nn1 - end prediction cv
+[2020-05-19 16:45:17] - nn1 - start training cv
+[2020-05-19 16:45:17] - nn1 fold 0 - start training
+[2020-05-19 16:45:34] - nn1 fold 0 - end training - score 0.5469846075038421
+[2020-05-19 16:45:34] - nn1 fold 1 - start training
+[2020-05-19 16:45:49] - nn1 fold 1 - end training - score 0.5484865548713684
+[2020-05-19 16:45:49] - nn1 fold 2 - start training
+[2020-05-19 16:46:04] - nn1 fold 2 - end training - score 0.5523383245528256
+[2020-05-19 16:46:04] - nn1 fold 3 - start training
+[2020-05-19 16:46:19] - nn1 fold 3 - end training - score 0.5420914845097771
+[2020-05-19 16:46:19] - nn1 - end training cv - score 0.5474752428594534
+[2020-05-19 16:46:19] - nn1 - start prediction cv
+[2020-05-19 16:46:20] - nn1 - start prediction fold:0
+[2020-05-19 16:46:29] - nn1 - end prediction fold:0
+[2020-05-19 16:46:29] - nn1 - start prediction fold:1
+[2020-05-19 16:46:41] - nn1 - end prediction fold:1
+[2020-05-19 16:46:41] - nn1 - start prediction fold:2
+[2020-05-19 16:46:54] - nn1 - end prediction fold:2
+[2020-05-19 16:46:54] - nn1 - start prediction fold:3
+[2020-05-19 16:47:10] - nn1 - end prediction fold:3
+[2020-05-19 16:47:10] - nn1 - end prediction cv
+[2020-05-19 16:47:47] - nn1 - start training cv
+[2020-05-19 16:47:47] - nn1 fold 0 - start training
+[2020-05-19 16:48:05] - nn1 fold 0 - end training - score 0.5464284803615003
+[2020-05-19 16:48:05] - nn1 fold 1 - start training
+[2020-05-19 16:48:21] - nn1 fold 1 - end training - score 0.5492859399537005
+[2020-05-19 16:48:21] - nn1 fold 2 - start training
+[2020-05-19 16:48:37] - nn1 fold 2 - end training - score 0.5523383245528256
+[2020-05-19 16:48:37] - nn1 fold 3 - start training
+[2020-05-19 16:48:53] - nn1 fold 3 - end training - score 0.5420914845097771
+[2020-05-19 16:48:53] - nn1 - end training cv - score 0.5475360573444508
+[2020-05-19 16:48:53] - nn1 - start prediction cv
+[2020-05-19 16:48:54] - nn1 - start prediction fold:0
+[2020-05-19 16:49:03] - nn1 - end prediction fold:0
+[2020-05-19 16:49:03] - nn1 - start prediction fold:1
+[2020-05-19 16:49:15] - nn1 - end prediction fold:1
+[2020-05-19 16:49:15] - nn1 - start prediction fold:2
+[2020-05-19 16:49:29] - nn1 - end prediction fold:2
+[2020-05-19 16:49:29] - nn1 - start prediction fold:3
+[2020-05-19 16:49:45] - nn1 - end prediction fold:3
+[2020-05-19 16:49:45] - nn1 - end prediction cv
